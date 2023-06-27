@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack Developer with Blockchain Experience</h1>
+<h1 align="center">Full Stack Engineer with Blockchain Experience</h1>
 
 I am confident of speed and quality in frontend and backend.
 
@@ -12,7 +12,7 @@ const AlterShadow = {
   code: [Javascript, Typescript, HTML, CSS, Java, Python, C#, PHP, Solidity, Rust, FunC],
   frontendTools: [React, Redux, Angular, Vue, NextJS],
   backendTools: [SpringBoot, Express, ASP.NET, Djanog, Laravel],
-  cloudServices: ["AWS", "Microsoft Azure"],
+  cloudServices: ["AWS", "Microsoft Azure", "GCP"],
   chains: ["Ethereum", "Binance", "Polygon", "Avalanche", "Solana", "EOSIO", "TON"],
   dApps: ["Dex", "NFT", "LaunchPad", "P2E", "DeFi", "Presale"]
 }
