@@ -1,6 +1,6 @@
 <h1 align="center">Full Stack Engineer with Blockchain Experience</h1>
 
-I am confident of speed and quality in frontend and backend.
+I have the skills and expertise to deliver fast and high-quality work in smart contract development, frontend development, and backend development.
 
 ![](https://komarev.com/ghpvc/?username=AlterShadow&label=VISITORS&color=green)
 
