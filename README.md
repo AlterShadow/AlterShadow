@@ -14,12 +14,12 @@
 
 ### &nbsp;About Me :
 
-I am a Full Stack Developer with specialized in web2 & web3 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My name is Thomas Ken. I am a Full Stack Developer expertise with web2 & web3. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend, smart contract for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I study latest software technologies.
-
+- 🤔 I’m looking forward to knowing other developers better.
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
