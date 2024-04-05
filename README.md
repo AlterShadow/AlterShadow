@@ -22,7 +22,7 @@ Hello there! My name is **Thomas Ken**. I consider myself a **Full Stack Develop
   - 🛠️ Developing server-side logic that scales well and integrates seamlessly with various databases and services.
   - 👁️ Ensuring **cross-platform compatibility** and implementing **responsive design**.
 - 🖥️ Additionally, I am deeply involved with **smart contract development**, essential for today's decentralized applications.
-  - 📜 Writing **solidity contracts** with a strong emphasis on **security** and **gas optimization**.
+  - 📜 Writing **Solidity & Rust Contracts** with a strong emphasis on **security** and **gas optimization**.
   - 🔗 Integrating smart contracts into traditional applications to create hybrid systems.
 
 ## On the Horizon
