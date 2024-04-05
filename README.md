@@ -12,15 +12,31 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"  /></p>
 
-### &nbsp;About Me :
+# About Me
 
-My name is Thomas Ken. I am a Full Stack Developer expertise with web2 & web3. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Hello there! My name is **Thomas Ken**. I consider myself a **Full Stack Developer** with a rich expertise in both **web2** and **web3** technologies.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend, smart contract for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I study latest software technologies.
-- 🤔 I’m looking forward to knowing other developers better.
----
+## Currently
+- 🔭 I'm employed as a **Software Engineer** where I play a pivotal role in contributing to both the frontend and backend aspects of our web applications.
+  - 💼 Building user interfaces with a focus on **usability** and **performance**.
+  - 🛠️ Developing server-side logic that scales well and integrates seamlessly with various databases and services.
+  - 👁️ Ensuring **cross-platform compatibility** and implementing **responsive design**.
+- 🖥️ Additionally, I am deeply involved with **smart contract development**, essential for today's decentralized applications.
+  - 📜 Writing **solidity contracts** with a strong emphasis on **security** and **gas optimization**.
+  - 🔗 Integrating smart contracts into traditional applications to create hybrid systems.
+
+## On the Horizon
+- 🌱 I'm currently delving into the world of **Technical Content Writing**.
+  - ✍️ Sharing my knowledge and experience through blogging platforms and technical documentation.
+- 💡 Always eager to learn, I dedicate my free time to exploring the latest software technologies.
+  - 🏗️ Experimenting with new frameworks and languages to stay ahead in the fast-paced tech landscape.
+
+## Goals
+- 🤔 I’m looking forward to connecting and exchanging ideas with other developers in the tech community.
+  - 🤝 Open to mentorship opportunities, peer programming sessions, and tech meetups.
+  - 🔄 Keen on contributing to open source projects and participating in coding challenges.
+
+Feel free to reach out if you're interested in collaborating or just want to chat about tech!
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -68,4 +84,6 @@ My name is Thomas Ken. I am a Full Stack Developer expertise with web2 & web3. <
 ---
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
 
