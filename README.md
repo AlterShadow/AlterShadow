@@ -14,7 +14,7 @@
 
 # About Me
 
-Hello there! I consider myself a **Full Stack Developer** with a rich expertise in both **web2** and **web3** technologies.
+Hello there! My name is Thomas Ken. I consider myself a **Full Stack Developer** with a rich expertise in both **web2** and **web3** technologies.
 
 ## Currently
 - 🔭 I'm employed as a **Software Engineer** where I play a pivotal role in contributing to both the frontend and backend aspects of our web applications.
