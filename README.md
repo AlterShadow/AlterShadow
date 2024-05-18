@@ -10,7 +10,7 @@
 
 <h1 align="center">Hello, Everyone <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" /></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"  /></p>
+<p align="center"></p>
 
 # About Me
 
