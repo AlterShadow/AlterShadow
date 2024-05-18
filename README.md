@@ -8,9 +8,11 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Hello, Everyone <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" /></h1>
+<h1 align="center">Hello, Everyone</h1> 
 
-<p align="center"></p>
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" />
+
+
 
 # About Me
 
