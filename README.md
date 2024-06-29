@@ -84,6 +84,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+I am always open to work!!!!
 ---
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
