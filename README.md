@@ -16,7 +16,7 @@
 
 # About Me
 
-Hello there! I consider myself a **Full Stack Developer** with a rich expertise in both **web2** and **web3** technologies.
+Hello there! I consider myself a **Full Stack Developer** with a rich expertise in both **web2** and **web3**, **AI** technologies.
 I can write Smart Contracts in Solidity, Rust, Move, FunC on EVM compatible chains, Solana, CosmWasm, Near, Aptos, Sui and TON.
 
 ## Currently
@@ -27,7 +27,7 @@ I can write Smart Contracts in Solidity, Rust, Move, FunC on EVM compatible chai
 - 🖥️ Additionally, I am deeply involved with **smart contract development**, essential for today's decentralized applications.
   - 📜 Writing **Solidity & Rust, Move, FunC Contracts** with a strong emphasis on **security** and **gas optimization**.
   - 🔗 Integrating smart contracts into traditional applications to create hybrid systems.
-
+  - DL/ML
 ## On the Horizon
 - 🌱 I'm currently delving into the world of **Technical Content Writing**.
   - ✍️ Sharing my knowledge and experience through blogging platforms and technical documentation.
